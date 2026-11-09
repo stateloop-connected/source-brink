@@ -1,0 +1,14 @@
+{
+  "build_script": "npm run build:node && npm run build:web",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "ponzgpt/brink",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "998f2bd935f64621049e822a55e3872a70980cd1"
+}
